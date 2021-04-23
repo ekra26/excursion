@@ -13,4 +13,4 @@ Design mock and specs are provided by Codecademy.
 
 #### Other information
 
-* Project status: In progress
+* Project status: Complete
